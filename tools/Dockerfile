@@ -1,4 +1,4 @@
-FROM outlandish/bitc-php
+FROM outlandish/bitc-php:7.4
 
 RUN apk update && apk add bash
 
